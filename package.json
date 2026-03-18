@@ -1,0 +1,32 @@
+{
+  "name": "devlg",
+  "version": "1.0.0",
+  "description": "CLI tool to log what you build, fix, learn and figure out — into your devlog from anywhere",
+  "bin": {
+    "devlg": "./bin/devlog.js"
+  },
+  "type": "module",
+  "author": "hassan2bit <https://github.com/HassanAmirii>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HassanAmirii/devlog-cli.git"
+  },
+  "homepage": "https://github.com/HassanAmirii/devlog-cli#readme",
+  "bugs": {
+    "url": "https://github.com/HassanAmirii/devlog-cli/issues"
+  },
+  "keywords": [
+    "devlog",
+    "cli",
+    "developer",
+    "journal",
+    "log",
+    "terminal"
+  ],
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.0.0",
+    "inquirer": "^9.2.0"
+  }
+}
