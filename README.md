@@ -4,17 +4,14 @@ A minimal CLI tool to log what you build, fix, learn and figure out — directly
 
 ```
 devlg ─── your dev memory
-
 ? What kind of entry?
   ❯ ● built        — shipped or created something
     ● learned      — understood something new
     ● fixed        — debugged or resolved an issue
     ● figured out  — had a realization or insight
-
 ? Title: Deployed JIA — AI goal accountability app
 ? Description: Vibecoded a full goal manager with AI advisor...
 ? Stack / tags: HTML, CSS, JS, DeepSeek API
-
 ✓ Entry saved
   built — Deployed JIA — AI goal accountability app
   9 total entries in your devlog
@@ -25,7 +22,7 @@ devlg ─── your dev memory
 ## Install
 
 ```bash
-npm install -g devlg
+npm install -g @hassan2bit/devlg
 ```
 
 ## Setup (first time only)
@@ -62,7 +59,7 @@ This CLI is built to work with the [devlog](https://github.com/HassanAmirii/devl
 
 1. Fork [devlog](https://github.com/HassanAmirii/devlog)
 2. Deploy to Netlify
-3. Install `devlg` and run `devlg init`
+3. Install `@hassan2bit/devlg` and run `devlg init`
 4. Log from anywhere, push to deploy
 
 ## License
