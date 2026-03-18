@@ -1,6 +1,6 @@
 {
   "name": "@hassan2bit/devlg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI tool to log what you build, fix, learn and figure out — into your devlog from anywhere",
   "bin": {
     "devlg": "bin/devlog.js"
