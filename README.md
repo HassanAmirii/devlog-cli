@@ -55,10 +55,10 @@ devlg init
 
 ## Pair with devlog
 
-This CLI is built to work with the [devlog](https://github.com/HassanAmirii/devlog) site — a clean minimal developer journal you can host free on Netlify.
+This CLI is built to work with the [devlog](https://github.com/HassanAmirii/devlog) site — a clean minimal developer journal you can host free on Github page.
 
 1. Fork [devlog](https://github.com/HassanAmirii/devlog)
-2. Deploy to Netlify
+2. Deploy to Gihub page
 3. Install `@hassan2bit/devlg` and run `devlg init`
 4. Log from anywhere, push to deploy
 
