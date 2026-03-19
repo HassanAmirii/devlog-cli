@@ -7,6 +7,10 @@ import { listEntries } from "../lib/list.js";
 import { getConfig } from "../lib/config.js";
 import chalk from "chalk";
 
+import { createRequire } from "module";
+const require = createRequire(import.meta.url);
+const { version } = require("../package.json");
+
 const logo = `
 ${chalk.green("dev")}${chalk.white("lg")} ${chalk.gray("─── your dev memory")}
 `;
@@ -14,7 +18,7 @@ ${chalk.green("dev")}${chalk.white("lg")} ${chalk.gray("─── your dev memor
 program
   .name("devlg")
   .description("Log what you build, fix, learn and figure out")
-  .version("1.0.0");
+  .version(version);
 
 // devlog init
 program
