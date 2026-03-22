@@ -12,6 +12,7 @@ devlg ─── your dev memory
 ? Title: Deployed JIA — AI goal accountability app
 ? Description: Vibecoded a full goal manager with AI advisor...
 ? Stack / tags: HTML, CSS, JS, DeepSeek API
+? Add Link for reference (optional, press Enter to skip)
 ✓ Entry saved
   built — Deployed JIA — AI goal accountability app
   9 total entries in your devlog
