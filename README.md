@@ -10,7 +10,7 @@ devlg ─── your dev memory
     ● fixed        — debugged or resolved an issue
     ● figured out  — had a realization or insight
 ? Title: Deployed JIA — AI goal accountability app
-? Description: Vibecoded a full goal manager with AI advisor...
+? Description: Built a full goal manager with AI advisor...
 ? Stack / tags: HTML, CSS, JS, DeepSeek API
 ? Add Link for reference (optional, press Enter to skip)
 ✓ Entry saved
