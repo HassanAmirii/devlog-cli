@@ -9,6 +9,9 @@ devlg ─── your dev memory
     ● learned      — understood something new
     ● fixed        — debugged or resolved an issue
     ● figured out  — had a realization or insight
+    ● keep   — keep resources for future use
+    ● wins   — log your recent win
+
 ? Title: Deployed JIA — AI goal accountability app
 ? Description: Built a full goal manager with AI advisor...
 ? Stack / tags: HTML, CSS, JS, DeepSeek API
