@@ -11,6 +11,7 @@ devlg ─── your dev memory
     ● figured out  — had a realization or insight
     ● keep   — keep resources for future use
     ● wins   — log your recent win
+    ● reflection — document your thoughts and insights
 
 ? Title: Deployed JIA — AI goal accountability app
 ? Description: Built a full goal manager with AI advisor...
